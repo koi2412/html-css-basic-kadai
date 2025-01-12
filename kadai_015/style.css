@@ -20,6 +20,6 @@ h1 {
 body {
   text-align: center;
 }
-#basic p {
+#basic > p {
   font-weight: bold;
 }
